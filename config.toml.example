@@ -1,0 +1,8 @@
+segment_time = 10
+list_size = 10
+encrypt = true
+key_uri_base = "https://example.yourdomain.com/"
+key_file = "your/fulepath/encryption.key"
+iv = "0123456789abcdef0123456789abcdef"
+quiet = false
+force_transcode = false
